@@ -6,8 +6,11 @@ An annual event hosted by the Google Developers Group across the world to bring 
 
 We at GDG Coimbatore are very excited to bring back the festival of developers to Coimbatore. We have a lot of exciting things planned for you this year including power packed sessions, and a lot of fun.
 
+![Application Screenshot](https://github.com/user-attachments/assets/af286ad0-98c9-408b-8e13-2c35304ee03e)
+
 ### Development Instructions
 
+1. Run `nvm use 16`
 1. Run `npm install`
 1. Run `npm run dev`
 1. Open [http://localhost:3000](http://localhost:3000) to view the website.
